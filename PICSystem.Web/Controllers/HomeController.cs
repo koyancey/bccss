@@ -10,7 +10,7 @@ namespace PICSystem.Web.Controllers
     {
         public IActionResult Index()
         {
-            //make some changes
+            //make some changes again
             return View();
         }
 
